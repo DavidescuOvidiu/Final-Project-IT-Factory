@@ -45,7 +45,7 @@ Project Requirements
 
 Project Epic
   - [The user should be able to register.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20register.PNG)
-  - The user should be able to login using a registered account.
+  - [The user should be able to login using a registered account.] (https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20login.PNG)
   - The user should be able to logout.
   - The user should be able to browse the store.
   - The user should be able to use add to cart function.
