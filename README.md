@@ -71,4 +71,7 @@ Project Test Cases
 
 **Test Execution**
 
+**Project Issues**
+- [User is not able to create an account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Bug%20-%20create%20account_1.png)
+
 **Test Report**
