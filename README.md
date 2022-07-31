@@ -55,6 +55,17 @@ Project Epic
   - [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20responsive.PNG)
 
 Project Stories
+- [The user should be able to create an account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20register.PNG)
+- [The user should be able to login with a valid account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20login.PNG)
+- [The user should be able to log out from hes or hers account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20log%20out.PNG)
+- [The user should be able to browse/ navigate throw the site](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20browse.PNG)
+- [The user should be able to add products to his or hers cart](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20cart.PNG)
+- [The use should pe able to customise(delete, update, proceed to checkout)](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20customise%20cart.PNG)
+- [The user should be able to search for products.]()
+- 
+
+
+- 
 
 Project Test Cases
 
