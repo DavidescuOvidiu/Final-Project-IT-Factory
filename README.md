@@ -44,7 +44,7 @@ Project Requirements
 **Test cases design**(based on project stories)
 
 Project Epic
-  - The user should be able to register.
+  - [**The user should be able to register.**] 
   - The user should be able to login using a registered account.
   - The user should be able to logout.
   - The user should be able to browse the store.
