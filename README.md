@@ -64,10 +64,7 @@ Project Stories
 - [The user should be able to search for products.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20search.PNG)
 - [The user should be able to add products to a Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20add%20products%20to%20wishlist.PNG)
 - [The user should be able to see his or hers Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20view%20wishlist.PNG)
-- [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20responsive.PNG)
-
-
-- 
+- [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20responsive.PNG)- 
 
 Project Test Cases
 
