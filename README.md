@@ -51,7 +51,7 @@ Project Epic
   - [The user should be able to use add to cart function.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20add%20to%20cart.PNG)
   - [The user should be able to customise the cart (add, update, delete, buy product).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20customise%20cart.PNG)
   - [The user should be able to search for products.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20search%20products.PNG)
-  - [The user should be able to add products to a Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20wishlist.PNG)
+  - [The user should have a Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20wishlist.PNG)
   - [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20responsive.PNG)
 
 Project Stories
@@ -61,8 +61,10 @@ Project Stories
 - [The user should be able to browse/ navigate throw the site](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20browse.PNG)
 - [The user should be able to add products to his or hers cart](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20cart.PNG)
 - [The use should pe able to customise(delete, update, proceed to checkout)](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20customise%20cart.PNG)
-- [The user should be able to search for products.]()
-- 
+- [The user should be able to search for products.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20search.PNG)
+- [The user should be able to add products to a Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20add%20products%20to%20wishlist.PNG)
+- [The user should be able to see his or hers Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20view%20wishlist.PNG)
+- [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20responsive.PNG)
 
 
 - 
