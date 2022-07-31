@@ -64,7 +64,7 @@ Project Stories
 - [The user should be able to search for products.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20search.PNG)
 - [The user should be able to add products to a Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20add%20products%20to%20wishlist.PNG)
 - [The user should be able to see his or hers Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20view%20wishlist.PNG)
-- [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20responsive.PNG)- 
+- [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20responsive.PNG)
 
 Project Test Cases
 
@@ -73,5 +73,6 @@ Project Test Cases
 
 **Project Issues**
 - [User is not able to create an account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Bug%20-%20create%20account_1.png)
+- [User is not able to add products to his or hers wishlist, because the wishlist function doesn't exist](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Bug%20-%20wishlist.PNG)
 
 **Test Report**
