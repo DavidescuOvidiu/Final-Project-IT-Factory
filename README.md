@@ -45,14 +45,14 @@ Project Requirements
 
 Project Epic
   - [The user should be able to register.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20register.PNG)
-  - [The user should be able to login using a registered account.] (https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20login.PNG)
-  - The user should be able to logout.
-  - The user should be able to browse the store.
-  - The user should be able to use add to cart function.
-  - The user should be able to customise the cart (add, update, delete, buy product).
-  - The user should be able to search for products.
-  - The user should be able to add products to a Wishlist.
-  - The user should be able to use the application on mobile also (mobile friendly).
+  - [The user should be able to login using a registered account.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20login.PNG)
+  - [The user should be able to logout.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20logout.PNG)
+  - [The user should be able to browse the store.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20browse%20the%20store.PNG)
+  - [The user should be able to use add to cart function.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20add%20to%20cart.PNG)
+  - [The user should be able to customise the cart (add, update, delete, buy product).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20customise%20cart.PNG)
+  - [The user should be able to search for products.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20search%20products.PNG)
+  - [The user should be able to add products to a Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20wishlist.PNG)
+  - [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20responsive.PNG)
 
 Project Stories
 
