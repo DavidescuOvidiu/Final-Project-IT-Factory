@@ -30,8 +30,14 @@ Project Requirements
  - The project must be completed in 12 months
 
 **Entry Criteria**
+- in order for the feature to enter testing phase it needs to be at least 95% development done (dev done)
+- smoke tests from the dev team must be 100% passed
 
 **Exit Criteria**
+- all test cases must be executed
+- all issues must be submitted
+- follow up with the dev team/ team leaders must be done
+- tracebility matrix must be added to the test report 
 
 **Risks**
 
