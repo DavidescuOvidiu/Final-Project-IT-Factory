@@ -72,7 +72,19 @@ Project Requirements
 - [Create a new account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/83d5c6feb13c4c83dec1aa893a55fa56657ad979/test%20-%20create%20an%20account.PNG)
 - [Email already used](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20email%20already%20used.PNG)
 - [Different formats for user email](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20different%20formats%20for%20emails.PNG)
-- 
+- [No bad words in the email registration](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20bad%20words.PNG)
+- [User login](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20login.PNG)
+- [User log out](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20logout.PNG)
+- [Navigate throw the page](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20navigate%20throw%20the%20page.PNG)
+- [Go to the main page](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20main%20page.PNG)
+- [Add product to the cart](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20cart.PNG)
+- [Delete product from cart](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20delete%20from%20cart.PNG)
+- [Proceed to checkout](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20checkout.PNG)
+- [Search after a product](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20search%20product.PNG)
+- [Search bar suggestion](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20search%20bar%20suggestion.PNG)
+- [Add product to wishlist](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20product%20to%20wishlist.PNG)
+- [View my Wishlist](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20view%20wishlist.PNG)- 
+- [Responsive site](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20responsive.PNG)
 
 
 **Test Execution**
