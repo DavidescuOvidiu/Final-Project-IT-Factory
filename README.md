@@ -69,7 +69,7 @@ Project Stories
 - [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20responsive.PNG)
 
 Project Test Cases
-- [The user can create a new account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/test%20-%20create%20an%20account.PNG)
+- [The user can create a new account]
 
 
 **Test Execution**
