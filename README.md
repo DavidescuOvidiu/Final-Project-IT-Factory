@@ -47,7 +47,7 @@ Project Requirements
 
 **Test cases design**(based on project stories)
 
-Project Epic
+**Project Epic**
   - [The user should be able to register, login and logout.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20register%2C%20login%20and%20logout.png)
   - [The user should be able to browse the store.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20browse%20the%20store.PNG)
   - [The user should be able to use add to cart function.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20add%20to%20cart.PNG)
@@ -56,7 +56,7 @@ Project Epic
   - [The user should have a Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20wishlist.PNG)
   - [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20responsive.PNG)
 
-Project Stories
+**Project Stories**
 - [The user should be able to create an account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20register.PNG)
 - [The user should be able to login with a valid account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20login.PNG)
 - [The user should be able to log out from hes or hers account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20log%20out.PNG)
@@ -68,8 +68,8 @@ Project Stories
 - [The user should be able to see his or hers Wishlist.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20view%20wishlist.PNG)
 - [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20responsive.PNG)
 
-Project Test Cases
-- [The user can create a new account]
+**Project Test Cases**
+- [The user can create a new account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/83d5c6feb13c4c83dec1aa893a55fa56657ad979/test%20-%20create%20an%20account.PNG)
 
 
 **Test Execution**
