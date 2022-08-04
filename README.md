@@ -41,7 +41,7 @@ Project Requirements
 
 **Risks**
 
-- the amountofman power might not be enouogh;
+- the amount of man power might not be enouogh;
 - the time needed in order to complet the project might expand;
 - financial risks;
 - the need of aditional maintenance needed;
