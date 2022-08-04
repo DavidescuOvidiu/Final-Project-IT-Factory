@@ -73,7 +73,7 @@ Project Requirements
 
 
 **Test Execution**
-- [Test Cycle 1](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/TestCycle1.PNG)
+- [Test Cycle 1]
 
 **Project Issues**
 - [User is not able to create an account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Bug%20-%20create%20account_1.png)
