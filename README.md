@@ -69,7 +69,10 @@ Project Requirements
 - [The user should be able to use the application on mobile also (mobile friendly).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Story%20-%20responsive.PNG)
 
 **Project Test Cases**
-- [The user can create a new account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/83d5c6feb13c4c83dec1aa893a55fa56657ad979/test%20-%20create%20an%20account.PNG)
+- [Create a new account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/83d5c6feb13c4c83dec1aa893a55fa56657ad979/test%20-%20create%20an%20account.PNG)
+- [Email already used](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20email%20already%20used.PNG)
+- [Different formats for user email](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/Documents/test%20-%20different%20formats%20for%20emails.PNG)
+- 
 
 
 **Test Execution**
