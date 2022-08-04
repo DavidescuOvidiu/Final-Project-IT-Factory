@@ -7,9 +7,7 @@
 Project Requirements
 
 
-  - The user should be able to register.
-  - The user should be able to login using a registered account.
-  - The user should be able to logout.
+  - The user should be able to use the accounts flow (register with valid, login and logout).
   - The user should be able to browse the store.
   - The user should be able to use add to cart function.
   - The user should be able to customise the cart (add, update, delete, buy product).
@@ -50,9 +48,7 @@ Project Requirements
 **Test cases design**(based on project stories)
 
 Project Epic
-  - [The user should be able to register.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20register.PNG)
-  - [The user should be able to login using a registered account.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20login.PNG)
-  - [The user should be able to logout.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20logout.PNG)
+  - [The user should be able to register, login and logout.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20register.PNG)
   - [The user should be able to browse the store.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20browse%20the%20store.PNG)
   - [The user should be able to use add to cart function.](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20add%20to%20cart.PNG)
   - [The user should be able to customise the cart (add, update, delete, buy product).](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Epic%20-%20customise%20cart.PNG)
