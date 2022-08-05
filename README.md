@@ -80,4 +80,5 @@ Project Requirements
 - [User is not able to add products to his or hers wishlist, because the wishlist function doesn't exist](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Bug%20-%20wishlist.PNG)
 
 **Test Report**
-  Test Metrics
+
+- Test Metrics(https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/test%20metrics.png)
