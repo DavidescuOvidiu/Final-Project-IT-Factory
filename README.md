@@ -101,4 +101,4 @@ Project Requirements
 
 **Test Report**
 
-[Test Metrics](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/test%20metrics.png)
+- [Test Metrics](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/test%20metrics.png)
