@@ -89,6 +89,11 @@ Project Requirements
 
 **Test Execution**
 - [Test Cycle 1](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/TestCycle1.PNG)
+- [Test Cycle 2](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/TestCycle2.PNG)
+- [Test Cycle 3](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/TestCycle3.PNG)
+- [Test Cycle 4](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/TestCycle4.PNG)
+- [Test Cycle 5](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/TestCycle5.PNG)
+- [Test Cycle 6](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/TestCycle6.PNG)
 
 **Project Issues**
 - [User is not able to create an account](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory/blob/main/Bug%20-%20create%20account_1.png)
